@@ -1,0 +1,4 @@
+postgres_data/
+redis/
+node_modules/
+platziverse-db/node_modules/
