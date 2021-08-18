@@ -6,7 +6,8 @@
   "scripts": {
     "test": "DEBUG=platziverse:* nyc --reporter=lcov ava tests/* --verbose",
     "setup": "DEBUG=platziverse:* node setup.js",
-    "lint": "standard"
+    "lint": "standard",
+    "fix": "standard --fix"
   },
   "author": "",
   "license": "ISC",
